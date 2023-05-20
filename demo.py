@@ -1,4 +1,4 @@
-
+# this is my first python code
 # # intersection in sets
 # a= {10,20,30,40,50}
 # b={20,80,30,40,70,100}
