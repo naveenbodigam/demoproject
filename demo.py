@@ -5,6 +5,7 @@
 # print(a.union (b))
 # # using intersection
 # a={10,20,30,40,50}
+# new line added
 # b={50,60,70,20,10}
 # print(a.intersection(b))
 # # using difference
